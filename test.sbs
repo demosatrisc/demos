@@ -1,0 +1,13 @@
+echo testing
+echo off
+cd man 
+cd disk 
+dir 
+mkdir atom 
+cd lenth
+goole.com.api
+cd \\
+cd..
+dir
+exc.bas
+done
